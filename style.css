@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+.botão {
+    background-color: green;
+}
+.apagar {
+    background-color: red;
+}
